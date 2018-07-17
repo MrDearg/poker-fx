@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Currency conversion from 1 currency to another
+* inverse currency conversion
+* Use Fixer.io Free API for Hourly rate updates
+* Deposit using Poker account or Cash
+* Withdraw to Poker Account or Cash
+* Show comparison to high St
+* 
